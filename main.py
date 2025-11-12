@@ -123,4 +123,3 @@ def read_from_serial(port='COM3', baudrate=115200, timeout=0.1):
             print("TCP server closed.")
 
 read_from_serial()
-read_from_serial()
